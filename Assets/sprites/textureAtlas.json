@@ -1,0 +1,48 @@
+{
+
+"images": [
+    "textureAtlas.png"
+],
+
+"framerate": 20,
+"frames": [
+    [2, 2, 226, 178, 0, 0, 0],
+    [2, 182, 39, 40, 0, 0, 0],
+    [43, 182, 32, 40, 0, 0, 0],
+    [77, 182, 23, 40, 0, 0, 0],
+    [102, 182, 15, 40, 0, 0, 0],
+    [119, 182, 10, 40, 0, 0, 0],
+    [131, 182, 15, 40, 0, 0, 0],
+    [148, 182, 24, 40, 0, 0, 0],
+    [174, 182, 32, 40, 0, 0, 0],
+    [208, 182, 40, 40, 0, 0, 0],
+    [2, 224, 41, 40, 0, 0, 0],
+    [45, 224, 62, 62, 0, 0, 0],
+    [109, 224, 62, 51, 0, 0, 0],
+    [173, 224, 62, 51, 0, 0, 0],
+    [2, 288, 62, 51, 0, 0, 0],
+    [2, 341, 200, 60, 0, 0, 0],
+    [2, 403, 200, 60, 0, 0, 0]
+],
+
+"animations": {
+    "cloud": { "frames": [0] },
+    "coin": {
+      "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "speed": 1
+    },
+    "island": { "frames": [11] },
+    "plane": {
+      "frames": [12, 13, 14],
+      "speed": 0.5
+    },
+    "restartButton": { "frames": [15] },
+    "startButton": { "frames": [16] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:622ed5f400af1081aa956b4bcc30c1ef:f9ac86df4e943a276bdad6bc0b80ea58:2b5604bc88faefd55ddac16e9bce1532$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
