@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP397-W2018-MailPilotDemo-D.git"
+    "url": "git+https://github.com/Joy-Shin/COMP397-W18-MailPilotDemo-D.git"
   },
-  "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
+  "author": "Jowon Shin <jshin31@my.centennialcollege.ca>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP397-W2018-MailPilotDemo-D/issues"
+    "url": "https://github.com/Joy-Shin/COMP397-W18-MailPilotDemo-D/issues"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP397-W2018-MailPilotDemo-D#readme",
+  "homepage": "https://github.com/Joy-Shin/COMP397-W18-MailPilotDemo-D#readme",
   "devDependencies": {
     "@types/easeljs": "^1.0.0"
   },
